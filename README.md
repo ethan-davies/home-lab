@@ -13,3 +13,4 @@ This lab is constantly growing so this is bound to change but as of right now he
   - [Portainer](https://www.portainer.io/) - Portainer is what is used to manage everything Docker in one easy place
   - [Homarr](https://homarr.dev/) - Homarr is my main dashboard due to is flexability
   - [UptimeKuma](https://uptime.kuma.pet/) - UptimeKuma is what I use to track all my API's and websites
+  - [NextCloud](https://nextcloud.com/) - What I use to easily transfer files from one device to another
